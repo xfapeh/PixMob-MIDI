@@ -16,13 +16,17 @@ HowTo:
 - compile and upload the sketch
 - send MIDI data to the serial port of the Arduino
   (this depends on your OS. On linux I use ttymidi (https://github.com/cjbarnes18/ttymidi/tree/master/src)
+  
    ttymidi -s /dev/ttyACM0 -n ArduinoUno -b 115200
+  
    and then send MIDI data via jack (or ALSAmidi) to the port "ArduinoUno", you can use Catia or qjackctl for routing.
+  
    On Windows there exists something similar called "Hairless MIDI Bridge", but I don´t use it)
 - future plans: integrate physical MIDI jack via Arduino
 
 ![PixMob-Arduino-Demo](https://github.com/user-attachments/assets/6965f6d1-291c-4fae-aff2-c56a81fe60cd)
 ![PixMob-Catia](https://github.com/user-attachments/assets/b028e0e0-2baf-41ba-899d-388ce65e7c49)
+
 dependencies:
 - IRremote Arduino library
 - MIDI.h Arduino library
