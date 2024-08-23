@@ -3,6 +3,7 @@ Controlling PixMob wristbands with MIDI via Arduino
 
 Parts used: 
 - PixMob Wristband (Aurora v1.7) or anything similar
+- Arduino Uno (or any compatible)
 - KY-005 IR LED (Arduino)
 - MIDI Keyboard/Controller
 
