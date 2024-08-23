@@ -1,5 +1,6 @@
 # PixMob-MIDI
 Controlling PixMob wristbands with MIDI via Arduino
+It´s really fun playing piano while your hands light up ...
 
 Parts used: 
 - PixMob Wristband (Aurora v1.7) or anything similar
