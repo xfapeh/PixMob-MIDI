@@ -1,5 +1,6 @@
 # PixMob-MIDI
 Controlling PixMob wristbands with MIDI via Arduino
+
 It´s really fun playing piano while your hands light up ...
 
 Parts used: 
@@ -27,5 +28,7 @@ dependencies:
 - MIDI.h Arduino library
 
 Big Thanks to:
+
 https://github.com/danielweidman/pixmob-ir-reverse-engineering
+
 https://github.com/danielweidman/flipper-pixmob-ir-codes
