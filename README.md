@@ -3,6 +3,8 @@ Controlling PixMob wristbands with MIDI via Arduino
 
 It´s really fun playing piano while your hands light up ...
 
+![PixMob-Keyboard](https://github.com/user-attachments/assets/09833d44-2c98-42af-97e0-446be543f324)
+
 Parts used: 
 - PixMob Wristband (Aurora v1.7) or anything similar
 - Arduino Uno (or any compatible)
@@ -21,8 +23,6 @@ HowTo:
 
 ![PixMob-Arduino-Demo](https://github.com/user-attachments/assets/6965f6d1-291c-4fae-aff2-c56a81fe60cd)
 ![PixMob-Catia](https://github.com/user-attachments/assets/b028e0e0-2baf-41ba-899d-388ce65e7c49)
-![PixMob-Keyboard](https://github.com/user-attachments/assets/09833d44-2c98-42af-97e0-446be543f324)
-
 dependencies:
 - IRremote Arduino library
 - MIDI.h Arduino library
