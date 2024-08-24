@@ -5,6 +5,8 @@ It´s really fun playing piano while your hands light up ...
 
 ![PixMob-Keyboard](https://github.com/user-attachments/assets/09833d44-2c98-42af-97e0-446be543f324)
 
+![PixMob MIDI Piano Test](https://www.youtube.com/watch?v=xtadfFcEgX8)
+
 Parts used: 
 - PixMob Wristband (Aurora v1.7) or anything similar
 - Arduino Uno (or any compatible)
